@@ -1,0 +1,15 @@
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\bin\Debug\lab3proje.1.exe.config
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\bin\Debug\lab3proje.1.exe
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\bin\Debug\lab3proje.1.pdb
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\projelab3_sonhal.csproj.AssemblyReference.cache
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\lab3proje._1.BayiEkran.resources
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\lab3proje._1.Form1.resources
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\lab3proje._1.Form2.resources
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\lab3proje._1.MüşteriEkle.resources
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\lab3proje._1.MüşteriListele.resources
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\lab3proje._1.Yönetici.resources
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\lab3proje._1.Properties.Resources.resources
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\projelab3_sonhal.csproj.GenerateResource.cache
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\projelab3_sonhal.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\lab3proje.1.exe
+C:\Users\ekrem\OneDrive\Masaüstü\projenyp\lab3proje.1\lab3proje.1\obj\Debug\lab3proje.1.pdb
